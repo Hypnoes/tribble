@@ -1,0 +1,7 @@
+{
+    "name": "Tribble",
+    "image": "mcr.microsoft.com/devcontainers/python:dev-3.12",  // Any generic, debian-based image.
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {}
+    }
+}
